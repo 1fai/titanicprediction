@@ -3,7 +3,7 @@ import pickle
 import numpy as np
  
 # Set the title and an image for the web app
-st.title("Welcome to Faisal's Titanic Prediction App :ship:")
+st.title("Welcome to Faissal's Titanic Prediction App :ship:")
 st.image('titanic2.jpg')
  
 # Load the pre-trained model
